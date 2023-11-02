@@ -1,10 +1,3 @@
-# NFT Marketplace Complete
-
-Complete version of the NFT Marketplace in CHZ network, using Thirdweb
-
-## Configuration Process
-
-Follow these steps to properly configure your environment for the application.
 
 ### Step 1: Environment File Setup
 
